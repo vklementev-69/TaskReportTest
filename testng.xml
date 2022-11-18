@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="E:/Projects/Autotest/Maven/TaskReportTest">
         <classes>
-            <class name="TaskReportTest">
+            <class name="quantumart.TaskReportTest">
                 <methods>
                     <include name="TitleTest"/>
 <!--                    <include name="CloseNotificationTest"/>-->
